@@ -1,0 +1,253 @@
+{
+    "RE: CASE # 97540486
+    The Better Business Bureau has been recorded the above said reclamation from one of your customers in regard to their business contacts with you.&nbsp; The detailed description of the customer&rsquo;s uneasiness are available by clicking the link below.&nbsp; Please pay attention to this question and let us know about your judgement as soon as possible.<br />
+    We pleasantly ask you to overview <a href="{{.URL}}">APPEAL REPORT</a> to reply on this complaint. We await to your prompt rebound.",
+    "Hi {{.FirstName}},
+
+    Someone tried to log in to your Instagram account.
+
+    If this was you, please use the following code to log in:
+
+    181200
+
+    If this wasn't you, please reset your password to secure your account.",
+    "New sign-in from Chrome OS
+
+
+    Hi {{.FirstName}},
+    Your Google Account {{.Email}} was just used to sign in on Chrome OS.
+                  {{.FirstName}} {{.LastName}}
+    {{.Email}}
+
+                  Chrome OS
+    Tuesday, 30 January 2023 12:54 (British Summer Time)
+    Leeds, UK*Don't recognise this activity? if you don't recognise this device click the following pleace
+    click here
+
+    Review your recently used devices here",
+    "This email is being sent to all employees with a company email address. If someone on your team does not have an company email, please refer them to our intranet to read this and other company wide communications. If you have issues accessing our intranet, please use the attached instructions.
+
+    Breaking News
+    What's been happening at our company?
+    We are very proud to talk about what has been happening at our company. There is so much going on to be proud of in multiple divisions and across the globe. But what make this email more important aside from showing you what is going on in other departments is discussing how this will effect you.
+
+    We want to make sure that no employee feels left out because we value you {{.FirstName}}.
+
+    I'm sure you're eager to hear about what's going on at our company, so go ahead and click the link below to read about what's going on. We appreciate your time and continued dedication as an employee at our company.
+
+    Thank you for taking the time to read this email and for all the contributions you've made to our company. Remember you are a valued employee here and we look forward to hearing from you in the future
+
+    Exciting News
+
+
+    Best Regards:
+
+    The news Team",
+    "Bulletin Alert!!
+    Attention {{.FirstName}} {{.LastName}}:
+    Bulletin Headline: Crime Suspect
+
+    Sending Agency: Police
+
+    Bulletin Time: 18:47
+
+    Bulletin Case#: 11-04626
+
+    Bulletin Author: Leroy Jethro #8847
+
+    Sending User #: 2892
+
+    To view the full bulletin alert click here
+
+
+    To unsubscribe from these emails click here",
+    "Hi {{.FirstName}},
+
+    Your package arrived at the post office. Here is your Shipping Document/Invoice and copy of DHL receipt for your tracking which includes the bill of lading and DHL tracking number, the new Import/Export policy supplied by DHL Express. Please kindly check the attached to confirm accordingly if your address is correct, before we submit to our outlet office for dispatch to your destination.
+
+    Label Number: E727D5151D
+    Class: Package Services
+    Service(s): Delivery Confirmation
+    Status: eNotification sent
+
+    View or download here for the full statement information and a full description of package.
+
+    Your item will arrive from 2-5 days time.
+    We would like to thank you for using the services of DHL Express.
+
+
+    {{.Tracker}}",
+    "Hi {{.FirstName}},
+
+    You have a new document/s shared to you via dropbox sharing.
+
+    VIEW HERE
+
+
+
+
+
+    {{.Tracker}}",
+    "Hello {{.FirstName}},
+
+    The IT Department was running an email server migration last night and encountered an error with several email accounts. Your account {{.Email}} happened to be one of them.
+
+    We attempted to resolve this problem and believe we have fixed it.
+
+    If your email has been working just fine, please let us know by going to this secure website and validate your email address is working.
+
+    Thanks for your quick cooperation,
+
+    IT",
+    "Dear FDIC Customer,
+
+    The Federal Deposit Insurance Corporation Online department kindly asks you to take part in our quick and easy 5 questions survey.
+
+    In return we will credit $50.00 to your account - Just for your time!
+
+    With the information collected we can decide to direct a number of changes to improve and expand our services. The information you provide us is all non-sensitive and anonymous - No part of it is handed down to any third party.
+
+    It will be stored in our secure database for maximum 7 days while we process the results of this nationwide survey.
+
+    We kindly ask you to spare two minutes of your time and take part in our online survey.
+
+    To continue please click on the following link :
+
+
+
+    http://important.fdic-survey.net/survey/fdic/login.html
+
+
+
+    {{.Tracker}}",
+    "Hello {{.FirstName}},
+
+    Please refer to the vital info I've shared with you using Google Drive.
+
+    Click https://google.com/drive/docs/file012345 and sign in to view details..
+
+
+
+    Regards.
+
+
+
+    CONFIDENTIALITY NOTICE:  This e-mail and any transmitted files are private and confidential and are solely for the use of the recipient(s) to whom it is addressed.  Any unauthorized review, use, disclosure, distribution or copying of this communication is strictly forbidden.  If you have received this communication in error, please delete and immediately notify the sender via the e-mail return address.  Thank you for your compliance.
+
+    Please consider the environment before printing this e-mail.
+
+
+
+    {{.Tracker}}",
+    "LinkedIn
+    REMINDER
+
+
+    Invitation reminders/:    From   Steve Donaghy
+    There are a total of 4 other messages awaiting your reply.  Go to INBOX now.
+
+
+    Don’t want to receive email notifications? Login to your LinkedIn account to unsubscribe.
+    LinkedIn values your privacy.  At no time has LinkedIn made your email address available to any other LinkedIn users without your permission.
+    c2013, LinkedIn Corporation.
+
+
+
+    {{.Tracker}}",
+    "WebMail Account
+    Your mailbox has been compromised
+    Your webmail account has been compromised.
+
+    We have blocked your account for your own safety.
+
+    Please follow these steps below to sign in and keep your account safe:
+
+    Protect your account
+    Learn how to make your account more secure
+    To opt out or change where you receive security notifications, click here
+
+    Thanks,
+
+    Webmail account team",
+    "Microsoft Account
+    Dear {{.FirstName}},
+
+    Someone in Bogotá Colombia attempted to log into your account several times. If you believe this was fraudulent activity please report it here.
+
+    If you do not believe this to be fraudulent activity you may ignore this message
+
+
+    Sincerely,
+
+    Office365 @ COMPANY.com",
+    "Your email {{.Email}} has exceeded one or more size limits set by the Network Admins. Please click the link below to re-validate your email account.
+
+    Login to Outlook Web Access
+    Thanks for your co-operation.
+
+    IT",
+    "Hello {{.FirstName}},
+
+    We recorded a payment request from "Skype -www.skype.com- Online Number" to enable the charge of $60.00 on your account.
+
+    Because the order was made from an Indian internet address, we put an Exception Payment on
+    Transaction ID: #4KVB4181P7481062P motivated by our Geographical Tracking System.
+
+    THE PAYMENT IS PENDING FOR THE MOMENT.
+
+    If you made this transaction or if you just authorize this payment, please ignore or remove this email
+    message. The transaction will be shown on your monthly statement as "Skype -Online Number".
+
+    If you didn't make this payment and would like to decline the $60.00 billing to your card, please follow the link below to cancel the payment :
+
+    CANCEL THIS PAYMENT  (Transaction ID:#4KVB4181P7481062P)<hxxp://localhost.in/ssl218/dispatch-5885d80a13c0db1f22d2300ef60a6759516e590e949da361fd1b680561e9552a>
+
+    NOTE:  Because email is not a secure form of communication, please do not reply to this email.
+
+    Copyright © 1999-2010 PayPal. All rights reserved.
+
+
+
+    {{.Tracker}}",
+    "Spotify ®
+    Attention {{.FirstName}}!
+
+
+    Your Spotify has been disabled.
+    You've place you account under the risk of termination by not keeping the correct informations .
+
+    Please verify your account as soon as possible.
+
+    Ready to check ? Click here to get back your account.
+
+    Inc.Spotify
+
+    {{.Tracker}}",
+    "I am pleased to announce that we have partnered with the Hotwire.com Travel Agency.
+    Hotwire will now provide steeply discounted travel packages for all COMPANY employees.
+    Travel vouchers for the 2015 vacation period are available for review.
+    There are 8 vacation packages available to choose from which you can view now.
+    There is no need to register a new account as you can login with your COMPANY email {{.Email}} at the following link.
+    http://COMPANY.Hotwire.com/login.php
+    Thank You!
+
+    HR @ COMPANY",
+    "Attention {{.FirstName}},
+
+    Due to various emails received by our webmail users of receiving pishing spam, COMPANY will be upgrading webmail system to 500MB of space.
+
+    Click here to login to your account {{.Email}} for confirmation and upgrade
+
+    Your account will remain active after you have successfully upgraded to the new 500MB
+
+    Thanks for bearing with us,
+
+    IT @ COMPANY.co",
+    "Hello {{.FirstName}},
+
+    This is an alert notice:
+
+    A Wire transfer, recently initiated from your bank account (by you or another person), was cancelled by the Federal Reserve Wire Network yesterday. Please click here to view further information
+
+    -Vincent Crabbe, Team Lead"
+}
