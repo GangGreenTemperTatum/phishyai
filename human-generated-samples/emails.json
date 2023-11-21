@@ -1,8 +1,8 @@
 {
-    "RE: CASE # 97540486
+    sample1: "RE: CASE # 97540486
     The Better Business Bureau has been recorded the above said reclamation from one of your customers in regard to their business contacts with you.&nbsp; The detailed description of the customer&rsquo;s uneasiness are available by clicking the link below.&nbsp; Please pay attention to this question and let us know about your judgement as soon as possible.<br />
     We pleasantly ask you to overview <a href="{{.URL}}">APPEAL REPORT</a> to reply on this complaint. We await to your prompt rebound.",
-    "Hi {{.FirstName}},
+    sample2: "Hi {{.FirstName}},
 
     Someone tried to log in to your Instagram account.
 
@@ -25,7 +25,7 @@
     click here
 
     Review your recently used devices here",
-    "This email is being sent to all employees with a company email address. If someone on your team does not have an company email, please refer them to our intranet to read this and other company wide communications. If you have issues accessing our intranet, please use the attached instructions.
+    sample3: "This email is being sent to all employees with a company email address. If someone on your team does not have an company email, please refer them to our intranet to read this and other company wide communications. If you have issues accessing our intranet, please use the attached instructions.
 
     Breaking News
     What's been happening at our company?
@@ -61,7 +61,7 @@
 
 
     To unsubscribe from these emails click here",
-    "Hi {{.FirstName}},
+    sample4: "Hi {{.FirstName}},
 
     Your package arrived at the post office. Here is your Shipping Document/Invoice and copy of DHL receipt for your tracking which includes the bill of lading and DHL tracking number, the new Import/Export policy supplied by DHL Express. Please kindly check the attached to confirm accordingly if your address is correct, before we submit to our outlet office for dispatch to your destination.
 
@@ -88,7 +88,7 @@
 
 
     {{.Tracker}}",
-    "Hello {{.FirstName}},
+    sample5: "Hello {{.FirstName}},
 
     The IT Department was running an email server migration last night and encountered an error with several email accounts. Your account {{.Email}} happened to be one of them.
 
@@ -120,7 +120,7 @@
 
 
     {{.Tracker}}",
-    "Hello {{.FirstName}},
+    sample6: "Hello {{.FirstName}},
 
     Please refer to the vital info I've shared with you using Google Drive.
 
@@ -138,7 +138,7 @@
 
 
 
-    {{.Tracker}}",
+    {{.Tracker}}"
     "LinkedIn
     REMINDER
 
@@ -153,7 +153,7 @@
 
 
 
-    {{.Tracker}}",
+    {{.Tracker}}"
     "WebMail Account
     Your mailbox has been compromised
     Your webmail account has been compromised.
@@ -168,9 +168,9 @@
 
     Thanks,
 
-    Webmail account team",
-    "Microsoft Account
-    Dear {{.FirstName}},
+    Webmail account team"
+    "Microsoft Account",
+    sample7: "Dear {{.FirstName}},
 
     Someone in Bogotá Colombia attempted to log into your account several times. If you believe this was fraudulent activity please report it here.
 
@@ -186,7 +186,7 @@
     Thanks for your co-operation.
 
     IT",
-    "Hello {{.FirstName}},
+    sample8: "Hello {{.FirstName}},
 
     We recorded a payment request from "Skype -www.skype.com- Online Number" to enable the charge of $60.00 on your account.
 
@@ -208,9 +208,9 @@
 
 
 
-    {{.Tracker}}",
-    "Spotify ®
-    Attention {{.FirstName}}!
+    {{.Tracker}}"
+    "Spotify ®",
+    sample9: "Attention {{.FirstName}}!
 
 
     Your Spotify has been disabled.
@@ -243,7 +243,7 @@
     Thanks for bearing with us,
 
     IT @ COMPANY.co",
-    "Hello {{.FirstName}},
+    "Hello {{.FirstName}}
 
     This is an alert notice:
 

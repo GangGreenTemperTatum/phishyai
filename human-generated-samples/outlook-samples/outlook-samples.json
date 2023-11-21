@@ -19,26 +19,26 @@
         Sincerely,"
     },
     {
-        header: "You have won an Temu Mystery Box",
-        rawdata: "YOUR PACKAGE IS COMING
+        header2: "You have won an Temu Mystery Box",
+        rawdata2: "YOUR PACKAGE IS COMING
         You have 1 package waiting for delivery. Use your code to track it and receive it. Schedule your delivery and subscribe to our push notifications to avoid this from happening again
 
         [Schedule your delivery](https://emea01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fbefittingchannelcolors.org.uk%2Findex3.php%2F13059148%2F654a467567fbe%2F448318665%2F0%2Fuk%2Fyf06113%2F37302e3130322e3130332e313931%2F167%2FIDR%2F5797&data=05%7C01%7C%7C57926fc6b24e4eedbacd08dbe74c2d98%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638358086587181389%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KUOv6WWjqqtGjXEVDs47fGpc7Wv4ACGutbBavdkAw5M%3D&reserved=0)"
     },
     {
-        header: "Black Friday Extravaganza: Your Chance to Win a Tupperware Modular Mates 36 PC Set!        ",
-        rawdata: "R"
+        header3: "Black Friday Extravaganza: Your Chance to Win a Tupperware Modular Mates 36 PC Set!        ",
+        rawdata3: "R"
     },
     {
-        header: "Your computer may be at risk ☠️ |❌ Refresh McAfee Antivirus🔔",
-        rawdata: "Your device is infected with a virus and needs to be cleaned immediately. Do not ignore this critical alert. If you close this page, your computer access will be disabled to prevent further damage to our network.
+        header4: "Your computer may be at risk ☠️ |❌ Refresh McAfee Antivirus🔔",
+        rawdata4: "Your device is infected with a virus and needs to be cleaned immediately. Do not ignore this critical alert. If you close this page, your computer access will be disabled to prevent further damage to our network.
         Your computer has alerted us that it has been infected with a virus and spyware. The following information is being stolen...
         If you do not contact us within 5 minutes, we will be forced to disable your computer to prevent further damage to our network.
         Renew your McAfee Antivirus now to protect your computer from malicious attacks."
     },
     {
-        header: "**I have a proposal For You *** ",
-        rawdata: "Dear friend,
+        header5: "**I have a proposal For You *** ",
+        rawdata5: "Dear friend,
 
         I am James Tan Chris , a US Army combat soldier, I need your assistance in a deal that will benefit us both.
 
@@ -49,8 +49,8 @@
         Capt. James Tan Chris"
     },
     {
-        header: "DONATION.",
-        rawdata: "
+        header6: "DONATION.",
+        rawdata6: "
         ​
         Recipients
         ​
@@ -86,8 +86,8 @@
         Mrs. Mariam Matthew (Benefactor.)"
     },
     {
-        header: "Eating this fuels fungus to deadly levels…",
-        rawdata: "Today, I've prepared a quick presentation to show you the very common ingredient that probably was in the food you've eaten this week.
+        header7: "Eating this fuels fungus to deadly levels…",
+        rawdata7: "Today, I've prepared a quick presentation to show you the very common ingredient that probably was in the food you've eaten this week.
 
         This plain ingredient has been proven in the Fungal Genetics and Biology to immediately trigger fungal overgrowth to deadly levels!
 
@@ -119,8 +119,8 @@
         OPT-OUT "
     },
     {
-        header: "FINAL NOTICE!!",
-        rawdata: "Hello user,
+        header8: "FINAL NOTICE!!",
+        rawdata8: "Hello user,
 
         Your parcel 89593626 has arrived .
 
@@ -138,11 +138,11 @@
         Receive your order now"
     },
     {
-        header: "This is a test header",
-        rawdata: "This is a test raw data"
+        header9: "This is a test header",
+        rawdata9: "This is a test raw data"
     },
     {
-        header: "This is a test header",
-        rawdata: "This is a test raw data"
+        header10: "This is a test header",
+        rawdat10: "This is a test raw data"
     }
 }
